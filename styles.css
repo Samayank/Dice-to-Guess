@@ -6,6 +6,42 @@ body{
     background-color: rgb(56, 61, 79);
 }
 
+@media (min-width: 200px) and (max-width: 768px){
+    h2{
+        color: turquoise;
+        font-family: 'Caveat', cursive;
+        font-size: 1.5rem;
+        position: absolute;
+        top: 9rem;
+    }
+
+    h1{
+        color: turquoise;
+        font-size: 4rem;
+        font-family: 'Lobster';
+        margin-bottom: 10rem;
+    }
+
+    img{
+        width: 15%;
+    }
+    
+    .dice{
+        display: inline;
+    }
+    
+    .one{
+        padding: 0.5rem;
+        margin-right: 2rem;
+    }
+    
+    .two{
+        padding: 0.5rem;
+        margin-left: 2rem;
+    }
+}
+
+@media (min-width: 769px){
 h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
@@ -38,19 +74,4 @@ img{
     padding: 2rem;
     margin-left: 2rem;
 }
-
-.btn{
-    transition: 0.4s;
-    border-radius: 0.3rem;
-    text-align: center;
-    color: white;
-    border-color: rgb(56, 61, 79);
-}
-
-.btn1{
-    background-image: linear-gradient(to right, #39a8db 0%, #41f3ed 51%, rgb(56, 221, 215) 80%);
-}
-
-.btn:hover{
-    background-position: right center;
 }
