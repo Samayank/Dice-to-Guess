@@ -11,21 +11,23 @@ body{
         color: turquoise;
         font-family: 'Caveat', cursive;
         font-size: 1.5rem;
+        position: absolute;
+        top: 7rem;
     }
 
     h1{
         color: turquoise;
         font-family: 'Lobster';
-        margin-bottom: 7rem;
+        margin-bottom: 8rem;
     }
 
     img{
         width: 20%;
     }
     
-/*     .dice{
+    .dice{
         display: inline;
-    } */
+    }
     
     .one{
         padding: 0.5rem;
