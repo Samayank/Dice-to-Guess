@@ -11,5 +11,5 @@ const form = document.getElementById('form');
             localStorage.setItem('player-1', p1);
             localStorage.setItem('player-2', p2);
 
-            window.location.href = "index.html";
+            window.location.href = "toss.html";
 })
