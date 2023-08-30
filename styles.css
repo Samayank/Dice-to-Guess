@@ -10,14 +10,14 @@ body{
     h2{
         color: turquoise;
         font-family: 'Caveat', cursive;
-        font-size: 1.5 rem;
+        font-size: 1.5rem;
         position: absolute;
-        top: 15 rem;
+        top: 10rem;
     }
 
     h1{
         color: turquoise;
-        font-size: 1rem;
+        font-size: 3rem;
         font-family: 'Lobster';
         margin-bottom: 7rem;
     }
