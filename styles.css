@@ -10,16 +10,16 @@ body{
     h2{
         color: turquoise;
         font-family: 'Caveat', cursive;
-        font-size: 1.5rem;
+        font-size: 1.5 rem;
         position: absolute;
-        top: 9rem;
+        top: 15 rem;
     }
 
     h1{
         color: turquoise;
-        font-size: 4rem;
+        font-size: 3rem;
         font-family: 'Lobster';
-        margin-bottom: 10rem;
+        margin-bottom: 7rem;
     }
 
     img{
