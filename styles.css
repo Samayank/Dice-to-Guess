@@ -13,8 +13,8 @@ h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
-    position: absolute;
-    top: 7rem;
+/*     position: absolute;
+    top: rem; */
     }
 
 h1{
@@ -60,17 +60,17 @@ img{
     background-position: right center;
 }
 
-.reload{
+/* .reload{
     margin-right: 2rem;
     margin-top: 1rem;
 /*     display: block; */
-}
+/*}
 
 .reset{
     margin-left: 2rem;
     margin-top: 1rem;
-/*     display: block; */
-}
+/*     display: block; 
+} */
 
 }
 
