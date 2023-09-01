@@ -41,20 +41,20 @@ body{
     }
 } */
 
-
+@media (min-width: 200px){
 h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
     font-size: 2rem;
     position: absolute;
-    top: 10rem;
+    top: 12rem;
     }
 
 h1{
     color: turquoise;
-    font-size: 5rem;
+    font-size: 4rem;
     font-family: 'Lobster';
-    margin-bottom: 7rem;
+    margin-bottom: 9rem;
 }
 
 img{
@@ -94,8 +94,13 @@ img{
 
 .reload{
     margin-right: 7rem;
+    margin-top: 1rem;
+    display: block;
+}
 }
 
 .reset{
     margin-left: 7rem;
+    margin-top: 1rem;
+    display: block;
 }
