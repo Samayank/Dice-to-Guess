@@ -19,7 +19,7 @@ body{
     }
     
     .third{
-        padding-bottom: 3rem;
+        padding-bottom: 1rem;
     }
     .top{
         text-align: center;
@@ -30,7 +30,7 @@ body{
         font-family: 'Caveat', cursive;
         font-size: 1.5rem;
         position: absolute;
-        top: 10rem;
+        top: 20rem;
     }
     
     h1{
