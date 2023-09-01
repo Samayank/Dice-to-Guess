@@ -13,8 +13,8 @@ h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
-    position: absolute;
-    top: 8rem;
+
+    margin-top: 8rem;
 }
 
 h1{
