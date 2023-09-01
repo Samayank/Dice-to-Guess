@@ -45,7 +45,7 @@ body{
     }
 } */
 
-@media (min-width: 200px){
+
     h2{
         color: turquoise;
         font-family: 'Caveat', cursive;
@@ -78,7 +78,7 @@ body{
         padding: 0.5rem;
         margin-left: 4rem;
     }
-}
+
 
 .btn{
     transition: 0.4s;
