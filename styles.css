@@ -9,80 +9,80 @@ body{
 
 
 @media (max-width: 768px){
-.first{
-    padding-top: 6rem;
-}
-
-.second{
-    padding-top: 10rem;
-    padding-bottom: 7rem;
-}
-
-.third{
-    padding-bottom: 3rem;
-}
-.top{
-    text-align: center;
-}
+    .first{
+        padding-top: 6rem;
+    }
     
-h2{
-    color: turquoise;
-    font-family: 'Caveat', cursive;
-    font-size: 1.5rem;
-    position: absolute;
-    top: 3rem;
-}
-
-h1{
-    color: turquoise;
-    font-size: 3rem;
-    font-family: 'Lobster';
-    margin-top: 0px;
-}
-
-img{
-    width: 12%;
-}
+    .second{
+        padding-top: 5rem;
+        padding-bottom: 4rem;
+    }
     
-.dice{
-    display: inline;
-}
+    .third{
+        padding-bottom: 3rem;
+    }
+    .top{
+        text-align: center;
+    }
+        
+    h2{
+        color: turquoise;
+        font-family: 'Caveat', cursive;
+        font-size: 1.5rem;
+        position: absolute;
+        top: 3rem;
+    }
     
-.one{
-    margin-right: 4rem;
-}
+    h1{
+        color: turquoise;
+        font-size: 3rem;
+        font-family: 'Lobster';
+        margin-top: 0px;
+    }
     
-.two{
-    margin-left: 4rem;
-}
-
-.btn{
-    transition: 0.4s;
-    border-radius: 0.3rem;
-    text-align: center;
-    color: white;
-    border-color: rgb(56, 61, 79);
-    padding: 0.6rem;
-}
-
-.btn1{
-    background-image: linear-gradient(to right, #39a8db 0%, #41f3ed 51%, rgb(56, 221, 215) 80%);
-}
-
-.btn:hover{
-    background-position: right center;
-}
-
-.reload{
-    margin-right: 0.5rem;
-    margin-top: 1rem;
-/*     display: block; */
-}
-
-.reset{
-    margin-left: 0.5rem;
-    margin-top: 1rem; 
-}
+    img{
+        width: 12%;
+    }
+        
+    .dice{
+        display: inline;
+    }
+        
+    .one{
+        margin-right: 4rem;
+    }
+        
+    .two{
+        margin-left: 4rem;
+    }
+    
+    .btn{
+        transition: 0.4s;
+        border-radius: 0.3rem;
+        text-align: center;
+        color: white;
+        border-color: rgb(56, 61, 79);
+        padding: 0.6rem;
+    }
+    
+    .btn1{
+        background-image: linear-gradient(to right, #39a8db 0%, #41f3ed 51%, rgb(56, 221, 215) 80%);
+    }
+    
+    .btn:hover{
+        background-position: right center;
+    }
+    
+    .reload{
+        margin-right: 0.5rem;
+        margin-top: 1rem;
+    /*     display: block; */
+    }
+    
+    .reset{
+        margin-left: 0.5rem;
+        margin-top: 1rem; 
+    }
 
 }
 
