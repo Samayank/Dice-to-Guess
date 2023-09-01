@@ -1,12 +1,21 @@
 .container{
     text-align: center;
 }
-.function{
-    text-align: center;
-}
 
 body{
     background-color: rgb(56, 61, 79);
+}
+
+.first{
+    padding-bottom: 5rem;
+}
+
+.second{
+    padding-bottom: 3rem;
+}
+
+.third{
+    padding-bottom: 4rem;
 }
 
 @media (max-width: 768px){
@@ -15,14 +24,13 @@ h2{
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
     position: absolute;
-    top: 10rem;
+    top: 15rem;
 }
 
 h1{
     color: turquoise;
     font-size: 3rem;
     font-family: 'Lobster';
-    padding: 7rem;
 }
 
 img{
