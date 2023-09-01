@@ -14,14 +14,14 @@ h2{
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
     position: absolute;
-    top: 12rem;
+    top: 7rem;
     }
 
 h1{
     color: turquoise;
     font-size: 4rem;
     font-family: 'Lobster';
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
 }
 
 img{
@@ -98,9 +98,11 @@ img{
 .reload{
     margin-right: 7rem;
     margin-top: 1rem;
+    display: inline;
 }
 
 .reset{
     margin-left: 7rem;
     margin-top: 1rem;
+    display: inline;
 }
