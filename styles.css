@@ -4,6 +4,9 @@
 .function{
     text-align: center;
 }
+.main{
+    padding: 2rem;
+}
 body{
     background-color: rgb(56, 61, 79);
 }
