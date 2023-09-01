@@ -41,11 +41,11 @@ body{
     }
 } */
 
-@media (min-width: 200px){
+@media (max-width: 768px){
 h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
-    font-size: 2rem;
+    font-size: 1.5rem;
     position: absolute;
     top: 12rem;
     }
@@ -102,3 +102,66 @@ img{
     display: block;
 }
 }
+
+@media (min-width: 769px){
+    h2{
+        color: turquoise;
+        font-family: 'Caveat', cursive;
+        font-size: 2rem;
+        position: absolute;
+        top: 10rem;
+    }
+
+    h1{
+        color: turquoise;
+        font-size: 5rem;
+        font-family: 'Lobster';
+        margin-bottom: 7rem;
+    }
+
+    img{
+        width: 15%;
+    }
+    
+    .dice{
+        display: inline;
+    }
+    
+    .one{
+        padding: 0.5rem;
+        margin-right: 4rem;
+    }
+    
+    .two{
+        padding: 0.5rem;
+        margin-left: 4rem;
+    }
+
+    .btn{
+    transition: 0.4s;
+    border-radius: 0.3rem;
+    text-align: center;
+    color: white;
+    border-color: rgb(56, 61, 79);
+    padding: 0.6rem;
+}
+
+.btn1{
+    background-image: linear-gradient(to right, #39a8db 0%, #41f3ed 51%, rgb(56, 221, 215) 80%);
+}
+
+.btn:hover{
+    background-position: right center;
+}
+
+.reload{
+    margin-top: 1rem;
+    display: block;
+}
+
+.reset{
+    margin-top: 1rem;
+    display: block;
+}
+}
+    
