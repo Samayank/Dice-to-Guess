@@ -5,7 +5,7 @@
     text-align: center;
 }
 .main{
-    padding: 2rem;
+    margin-top: 2rem;
 }
 body{
     background-color: rgb(56, 61, 79);
@@ -16,8 +16,8 @@ h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
-    position: absolute;
-    top: 5rem;
+/*     position: absolute;
+    top: 5rem; */
 }
 
 h1{
@@ -28,8 +28,7 @@ h1{
 }
 
 img{
-    position: relative;
-    top: 2px;
+    height: 10%;
     width: 12%;
 }
     
