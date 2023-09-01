@@ -1,13 +1,10 @@
 .container{
     text-align: center;
-    padding: 0.5rem;
 }
 .function{
     text-align: center;
 }
-.top{
-    text-align: center;
-}
+
 body{
     background-color: rgb(56, 61, 79);
 }
@@ -17,8 +14,8 @@ h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
-/*     position: absolute;
-    top: 5rem; */
+    position: absolute;
+    top: 5rem;
 }
 
 h1{
