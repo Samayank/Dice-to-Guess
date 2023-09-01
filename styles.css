@@ -29,8 +29,8 @@ body{
         color: turquoise;
         font-family: 'Caveat', cursive;
         font-size: 1.5rem;
-/*         position: absolute;
-        top: 5rem; */
+        position: absolute;
+        top: 5rem;
     }
     
     h1{
