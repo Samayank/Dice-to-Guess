@@ -35,7 +35,7 @@ body{
     margin-left: 7rem;
 }
 
-@media (device-width: 320px) and (device-height: 640px){
+@media (min-width: 200px) and (max-width: 768px){
     h2{
         color: turquoise;
         font-family: 'Caveat', cursive;
