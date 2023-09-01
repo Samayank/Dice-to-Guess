@@ -9,7 +9,7 @@ body{
 
 
 @media (max-width: 768px){
-.first{
+/* .first{
     margin-top: 6rem;
 }
 
@@ -20,7 +20,7 @@ body{
 
 .third{
     margin-bottom: 3rem;
-}
+} */
 .top{
     text-align: center;
 }
