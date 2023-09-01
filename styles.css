@@ -15,7 +15,7 @@ body{
     
     .second{
         padding-top: 2rem;
-        padding-bottom: 2rem;
+        padding-bottom: 1rem;
     }
     
     .third{
@@ -30,7 +30,7 @@ body{
         font-family: 'Caveat', cursive;
         font-size: 1.5rem;
         position: absolute;
-        top: 10rem;
+        top: 20rem;
     }
     
     h1{
