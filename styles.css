@@ -10,6 +10,31 @@ body{
     background-color: rgb(56, 61, 79);
 }
 
+.btn{
+    transition: 0.4s;
+    border-radius: 0.3rem;
+    text-align: center;
+    color: white;
+    border-color: rgb(56, 61, 79);
+    padding: 0.6rem;
+}
+
+.btn1{
+    background-image: linear-gradient(to right, #39a8db 0%, #41f3ed 51%, rgb(56, 221, 215) 80%);
+}
+
+.btn:hover{
+    background-position: right center;
+}
+
+.reload{
+    margin-right: 7rem;
+}
+
+.reset{
+    margin-left: 7rem;
+}
+
 @media (device-width: 320px) and (device-height: 640px){
     h2{
         color: turquoise;
@@ -43,7 +68,7 @@ body{
         margin-left: 2rem;
     }
 
-    .btn{
+/*     .btn{
     transition: 0.4s;
     border-radius: 0.3rem;
     text-align: center;
@@ -66,7 +91,7 @@ body{
 
 .reset{
     margin-left: 7rem;
-}
+} */
 }
 
 @media (min-width: 769px){
@@ -105,27 +130,4 @@ img{
 }
 }
 
-.btn{
-    transition: 0.4s;
-    border-radius: 0.3rem;
-    text-align: center;
-    color: white;
-    border-color: rgb(56, 61, 79);
-    padding: 0.6rem;
-}
 
-.btn1{
-    background-image: linear-gradient(to right, #39a8db 0%, #41f3ed 51%, rgb(56, 221, 215) 80%);
-}
-
-.btn:hover{
-    background-position: right center;
-}
-
-.reload{
-    margin-right: 7rem;
-}
-
-.reset{
-    margin-left: 7rem;
-}
