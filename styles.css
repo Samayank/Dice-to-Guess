@@ -35,7 +35,7 @@ body{
     margin-left: 7rem;
 }
 
-@media screen and (min-device-width: 200px and max-device-width: 768px){
+@media (device-width: 320px and device-width: 640px){
 h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
@@ -94,7 +94,7 @@ img{
 } */
 }
 
-@media screen and (min-device-width: 1200px and max-device-width: 1600px){
+@media (min-device-width: 1200px and max-device-width: 1600px){
 h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
