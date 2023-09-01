@@ -13,8 +13,8 @@ h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
     font-size: 1.5rem;
-
-    margin-top: 8rem;
+    position: absolute;
+    top: 5rem;
 }
 
 h1{
@@ -25,7 +25,8 @@ h1{
 }
 
 img{
-    margin: 2px;
+    position: relative;
+    top: 2px;
     width: 12%;
 }
     
