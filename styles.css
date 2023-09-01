@@ -49,13 +49,13 @@ body{
         display: inline;
     }
         
-/*     .one{
+    .one{
         margin-right: 4rem;
     }
         
     .two{
-        margin-right: 4rem;
-    } */
+        margin-left: 4rem;
+    }
     
     .btn{
         transition: 0.4s;
