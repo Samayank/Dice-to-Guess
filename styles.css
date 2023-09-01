@@ -14,7 +14,7 @@ body{
     }
     
     .second{
-        padding: 2rem auto 1rem auto;
+        padding: 5rem auto 1rem auto;
     }
     
     .third{
@@ -29,7 +29,7 @@ body{
         font-family: 'Caveat', cursive;
         font-size: 1.5rem;
         position: absolute;
-        top: 10rem;
+        top: 3rem;
     }
     
     h1{
