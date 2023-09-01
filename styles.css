@@ -15,7 +15,7 @@ h2{
     font-size: 1.5rem;
     position: absolute;
     top: 10rem;
-    }
+}
 
 h1{
     color: turquoise;
@@ -60,17 +60,16 @@ img{
     background-position: right center;
 }
 
-/* .reload{
-    margin-right: 2rem;
+.reload{
+    margin-right: 0.5rem;
     margin-top: 1rem;
 /*     display: block; */
-/*}
+}
 
 .reset{
-    margin-left: 2rem;
-    margin-top: 1rem;
-/*     display: block; 
-} */
+    margin-left: 0.5rem;
+    margin-top: 1rem; 
+}
 
 }
 
