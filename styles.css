@@ -6,20 +6,22 @@ body{
     background-color: rgb(56, 61, 79);
 }
 
+
+
+@media (max-width: 768px){
 .first{
-    text-align: center;
+    margin-top: 0.7rem;
 }
 
 .second{
-    padding-top: 2rem;
-    padding-bottom: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .third{
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
 }
-
-@media (max-width: 768px){
+    
 h2{
     color: turquoise;
     font-family: 'Caveat', cursive;
@@ -82,6 +84,19 @@ img{
 }
 
 @media (min-width: 769px){
+    .first{
+    text-align: center;
+    }
+    
+    .second{
+        padding-top: 2rem;
+        padding-bottom: 3rem;
+    }
+    
+    .third{
+        padding-bottom: 4rem;
+    }
+    
     h2{
         color: turquoise;
         font-family: 'Caveat', cursive;
