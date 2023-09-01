@@ -10,16 +10,16 @@ body{
 
 @media (max-width: 768px){
 .first{
-    margin-top: 6rem;
+    padding-top: 6rem;
 }
 
 .second{
-    margin-top: 10rem;
-    margin-bottom: 7rem;
+    padding-top: 10rem;
+    padding-bottom: 7rem;
 }
 
 .third{
-    margin-bottom: 3rem;
+    padding-bottom: 3rem;
 }
 .top{
     text-align: center;
