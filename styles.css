@@ -9,18 +9,21 @@ body{
 
 
 @media (max-width: 768px){
-/* .first{
-    margin-top: 0.7rem;
+.first{
+    margin-top: 0.3rem;
 }
 
 .second{
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.3rem;
 }
 
 .third{
-    padding-bottom: 2rem;
-} */
+    margin-bottom: 0.5rem;
+}
+.top{
+    text-align: center;
+}
     
 h2{
     color: turquoise;
