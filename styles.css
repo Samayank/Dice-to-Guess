@@ -9,7 +9,7 @@ body{
 
 
 @media (max-width: 768px){
-.first{
+/* .first{
     margin-top: 0.7rem;
 }
 
@@ -20,7 +20,7 @@ body{
 
 .third{
     padding-bottom: 2rem;
-}
+} */
     
 h2{
     color: turquoise;
