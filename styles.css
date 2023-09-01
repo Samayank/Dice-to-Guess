@@ -42,6 +42,31 @@ body{
         padding: 0.5rem;
         margin-left: 2rem;
     }
+
+    .btn{
+    transition: 0.4s;
+    border-radius: 0.3rem;
+    text-align: center;
+    color: white;
+    border-color: rgb(56, 61, 79);
+    padding: 0.6rem;
+}
+
+.btn1{
+    background-image: linear-gradient(to right, #39a8db 0%, #41f3ed 51%, rgb(56, 221, 215) 80%);
+}
+
+.btn:hover{
+    background-position: right center;
+}
+
+.reload{
+    margin-right: 7rem;
+}
+
+.reset{
+    margin-left: 7rem;
+}
 }
 
 @media (min-width: 769px){
