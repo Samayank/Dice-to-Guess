@@ -19,7 +19,7 @@ h2{
 
 h1{
     color: turquoise;
-    font-size: 4rem;
+    font-size: 3rem;
     font-family: 'Lobster';
     margin-bottom: 6rem;
 }
@@ -61,13 +61,15 @@ img{
 }
 
 .reload{
+    margin-right: 2rem;
     margin-top: 1rem;
-    display: block;
+/*     display: block; */
 }
 
 .reset{
+    margin-left: 2rem;
     margin-top: 1rem;
-    display: block;
+/*     display: block; */
 }
 
 }
