@@ -10,11 +10,11 @@ body{
 
 @media (max-width: 768px){
     .first{
-        padding-top: 6rem;
+        padding-top: 4rem;
     }
     
     .second{
-        padding-top: 5rem;
+        padding-top: 3rem;
         padding-bottom: 4rem;
     }
     
@@ -30,7 +30,7 @@ body{
         font-family: 'Caveat', cursive;
         font-size: 1.5rem;
         position: absolute;
-        top: 3rem;
+        top: 6rem;
     }
     
     h1{
