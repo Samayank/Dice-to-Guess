@@ -9,18 +9,17 @@ body{
 
 
 @media (max-width: 768px){
-/*     .first{
-        padding: 1rem;
+    .first{
+        padding: 1rem auto 1rem auto;
     }
     
     .second{
-        padding: 2rem;
-        padding: 1rem;
+        padding: 2rem auto 1rem auto;
     }
     
     .third{
-        padding: 1rem;
-    } */
+        padding: 1rem auto 1rem auto;
+    }
     .top{
         text-align: center;
     }
@@ -30,7 +29,7 @@ body{
         font-family: 'Caveat', cursive;
         font-size: 1.5rem;
         position: absolute;
-        top: 7em;
+        top: 10rem;
     }
     
     h1{
