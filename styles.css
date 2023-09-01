@@ -2,10 +2,6 @@
     text-align: center;
 }
 
-.function{
-    text-align: center;
-}
-
 body{
     background-color: rgb(56, 61, 79);
 }
@@ -46,39 +42,38 @@ body{
 } */
 
 
-    h2{
-        color: turquoise;
-        font-family: 'Caveat', cursive;
-        font-size: 2rem;
-        position: absolute;
-        top: 10rem;
+h2{
+    color: turquoise;
+    font-family: 'Caveat', cursive;
+    font-size: 2rem;
+    position: absolute;
+    top: 10rem;
     }
 
-    h1{
-        color: turquoise;
-        font-size: 5rem;
-        font-family: 'Lobster';
-        margin-bottom: 7rem;
-    }
+h1{
+    color: turquoise;
+    font-size: 5rem;
+    font-family: 'Lobster';
+    margin-bottom: 7rem;
+}
 
-    img{
-        width: 12%;
-    }
+img{
+    width: 12%;
+}
     
-    .dice{
-        display: inline;
-    }
+.dice{
+    display: inline;
+}
     
-    .one{
-        padding: 0.5rem;
-        margin-right: 4rem;
-    }
+.one{
+    padding: 0.5rem;
+    margin-right: 4rem;
+}
     
-    .two{
-        padding: 0.5rem;
-        margin-left: 4rem;
-    }
-
+.two{
+    padding: 0.5rem;
+    margin-left: 4rem;
+}
 
 .btn{
     transition: 0.4s;
