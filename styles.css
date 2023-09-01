@@ -9,7 +9,7 @@ body{
 
 
 @media (max-width: 768px){
-    .first{
+/*     .first{
         padding: 1rem auto 1rem auto;
     }
     
@@ -19,7 +19,7 @@ body{
     
     .third{
         padding: 1rem auto 1rem auto;
-    }
+    } */
     .top{
         text-align: center;
     }
@@ -36,11 +36,11 @@ body{
         color: turquoise;
         font-size: 3rem;
         font-family: 'Lobster';
-        margin-top: 0px;
+        margin-top: 2px;
     }
     
     img{
-        padding-top: 5rem
+        padding-top: 5rem;
         width: 12%;
     }
         
