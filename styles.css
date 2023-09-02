@@ -85,6 +85,14 @@ body{
         margin-top: 1rem; 
     }
 
+    footer{
+    text-align: center;
+    }
+    h3{
+        color: turquoise;
+        font-family: 'Caveat', cursive;
+    }
+
 }
 
 @media (min-width: 769px){
@@ -160,5 +168,13 @@ body{
         margin-left: 7rem;
         margin-top: 1rem;
         display: inline;
+    }
+
+    footer{
+    text-align: center;
+    }
+    h3{
+        color: turquoise;
+        font-family: 'Caveat', cursive;
     }
 }
