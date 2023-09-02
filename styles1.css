@@ -71,6 +71,8 @@ input[type=name]{
 
 footer{
     text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 h3{
     color: turquoise;
