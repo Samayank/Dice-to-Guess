@@ -69,6 +69,14 @@ input[type=name]{
     padding: 0.7rem 1rem 0.7rem 1rem;
 }
 
+footer{
+    text-align: center;
+}
+h3{
+    color: turquoise;
+    font-family: 'Caveat', cursive;
+}
+
 /* input[type=submit]{
 
 }*/
